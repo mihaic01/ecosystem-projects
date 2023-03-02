@@ -1,0 +1,23 @@
+{
+  "name": "Blast",
+  "slug": "Blast",
+  "highlight": "Blast is an API platform that provides RPC/WSS APIs for Avalanche Mainnet and Testnet.",
+  "logo": "/img/Blast.png",
+  "tags": [
+    "tools",
+    "api",
+    "sdk",
+    "multi-chain"	
+  ],
+  "status": "live",
+  "website": "https://blastapi.io/",
+  "twitter": "https://twitter.com/BlastAPI",
+  "summary": "Solving Web3 reliability and performance issues by efficiently employing the resources of hundreds of third party node providers combined with a state-of-the-art decentralized blockchain API platform and an improved user experience.",
+  "telegram": "https://t.me/bwareLabs",
+  "discord": "https://discord.com/invite/VPkWESgtvV",
+  "docs":"https://docs.blastapi.io/",
+  "github":"https://github.com/bwarelabs",
+  "date": "",
+  "cmc":""
+  
+}
